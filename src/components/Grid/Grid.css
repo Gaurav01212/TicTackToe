@@ -1,0 +1,36 @@
+
+.grid{
+    heigh:1000px;
+    width:400px;
+    display:flex;
+    flex-wrap:wrap;
+    
+    gap:14px;
+    margin:auto;
+    margin-top:80px;
+}
+
+h1{
+    color:white;
+    margin-left:-50px;
+    
+}
+
+.grid-wrapper{
+    width:100%;
+    height:100%;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction:column;
+    
+}
+
+button{
+    background:green;
+    border:none;
+    height:40px;
+    width:90px;
+   margin:30px;
+  
+}
